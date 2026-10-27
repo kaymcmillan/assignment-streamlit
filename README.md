@@ -31,9 +31,12 @@ order, save it to Supabase, and verify it by reading it back from the database.
 |---|---|---|
 | Open the deployed app | | |
 | View customers and products | | |
-| Try an invalid quantity (0) | | |
-| Submit without confirmation | | |
-| Confirm and submit a valid order | | |
+| Try an invalid quantity (0) | <img width="990" height="295" alt="image" src="https://github.com/user-attachments/assets/5ac88ef5-4c9e-4705-9735-6981c2841271" />
+| |
+| Submit without confirmation | <img width="1088" height="209" alt="image" src="https://github.com/user-attachments/assets/f528f253-df40-431b-b503-0c77612a7e04" />
+| |
+| Confirm and submit a valid order | <img width="1093" height="181" alt="image" src="https://github.com/user-attachments/assets/630561bc-3ef2-4e73-8652-38ddb63ba25c" />
+| |
 | View the verification table | | |
 | Refresh / use another widget | | |
 | Refresh order history | | |
