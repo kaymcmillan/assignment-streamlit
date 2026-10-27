@@ -4,7 +4,6 @@ A Streamlit app that lets a user pick a customer and product, review and confirm
 order, save it to Supabase, and verify it by reading it back from the database.
 
 **Live app:** https://assignment-app-6mpbjmb2nghreqwjs2sxmp.streamlit.app/
-**GitHub repo:** PASTE YOUR REPO LINK HERE
 
 ## Files
 | File | Purpose |
