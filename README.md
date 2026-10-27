@@ -1,9 +1,9 @@
-# Order Entry App (DATA 4000)
+# Order Entry App
 
 A Streamlit app that lets a user pick a customer and product, review and confirm an
 order, save it to Supabase, and verify it by reading it back from the database.
 
-**Live app:** PASTE YOUR STREAMLIT COMMUNITY CLOUD LINK HERE
+**Live app:** https://assignment-app-6mpbjmb2nghreqwjs2sxmp.streamlit.app/
 **GitHub repo:** PASTE YOUR REPO LINK HERE
 
 ## Files
@@ -39,6 +39,3 @@ order, save it to Supabase, and verify it by reading it back from the database.
 | Refresh / use another widget | | |
 | Refresh order history | | |
 
-Screenshots (no credentials shown): add images to a `screenshots/` folder and link them here.
-- Order entry interface: 
-- Successfully verified order: 
